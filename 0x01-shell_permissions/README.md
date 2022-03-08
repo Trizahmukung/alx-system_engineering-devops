@@ -1,3 +1,2 @@
-# Shell permissions
-
+# Shell permissions 
 An introduction to bash scripts
