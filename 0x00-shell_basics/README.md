@@ -1,2 +1,3 @@
-# shell 
-covers the basics of the Linux shellcd
+# Shell
+ 
+Covers the basics of the Linux shell
