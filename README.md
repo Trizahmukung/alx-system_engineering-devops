@@ -1,2 +1,2 @@
-#!/bim/bash
+# Shell
 System engineering
