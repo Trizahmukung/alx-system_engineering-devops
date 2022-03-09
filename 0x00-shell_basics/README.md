@@ -1,2 +1,2 @@
-# Shell 
-Covers the basics of the Linux shell 
+# Shell basics
+Introduces the basics of shell
