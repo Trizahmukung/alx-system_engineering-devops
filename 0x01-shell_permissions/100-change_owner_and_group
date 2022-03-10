@@ -1,2 +1,2 @@
 #!/bin/bash
-Ownerandgroup
+chown vincent:staff *
