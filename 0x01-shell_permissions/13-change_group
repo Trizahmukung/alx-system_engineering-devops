@@ -1,2 +1,2 @@
 #!/bin/bash
-Changegroup
+chgrp school hello
