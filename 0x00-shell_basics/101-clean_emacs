@@ -1,2 +1,2 @@
 #!/bin/bash
-Cleanemacs
+mkdir -p welcome/to/school
