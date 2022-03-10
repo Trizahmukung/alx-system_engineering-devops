@@ -1,2 +1,2 @@
 #!/bin/bash
-Symboliclinks
+chown -h vincent:staff _hello
