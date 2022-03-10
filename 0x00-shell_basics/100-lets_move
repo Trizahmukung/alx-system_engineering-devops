@@ -1,2 +1,2 @@
 #!/bin/bash
-Let'smove
+mv [[:upper:]]* /tmp/u
